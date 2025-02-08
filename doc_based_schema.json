@@ -1,0 +1,34 @@
+// Document-based design schema
+
+{
+    "title": "campground",
+    "required": ["name", "location", "phone", "open_time", "close_time", "tents"],
+    "properties": {
+        "_id": { "bsonType": "objectId" },
+        "name": { "bsonType": "string" },
+        "location": { "bsonType": "string" },
+        "phone": { 
+            "bsonType": "string",
+            "pattern": "/^[0-9]{3}-[0-9]{3}-[0-9]{4}$/" 
+        },
+        "map_url": { "bsonType": "string" },
+        "open_time": { "bsonType": "string" },
+        "close_time": { "bsonType": "string" },
+        "tents": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "object",
+                "properties": {
+                    "tent_id": { "bsonType": "string" },
+                    "tent_size": { "bsonType": "string" },
+                    "tent_zone": { "bsonType": "string" },
+                    "status": { 
+                        "bsonType": "string", 
+                        "enum": ["available", "occupied"] 
+                    },
+                    "price": { "bsonType": "decimal" }
+                }
+            }
+        }
+    }
+}
