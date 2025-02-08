@@ -2,6 +2,8 @@
 
 database สำหรับเก็บข้อมูลการ "จองเต็นท์" ของลูกค้า (เลือก campground ผ่านระบบจองเต็นท์เลย) รวมถึงการเก็บและ update ข้อมูลภายในระบบ tent และ campground โดย admin ด้วย
 
+<img src="https://github.com/user-attachments/assets/6d11df5d-1eb9-4fd8-b8de-6902f0a4d0bd">
+
 ## Status updating
 
 <table>
