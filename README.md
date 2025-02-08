@@ -61,5 +61,6 @@ database สำหรับเก็บข้อมูลการ "จองเ
   <td colspan="11">Document based schema</td>
       <td colspan="11">done</td>
     </tr>
+</table>
 
 ### Final report
