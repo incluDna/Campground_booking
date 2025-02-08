@@ -67,3 +67,10 @@ database สำหรับเก็บข้อมูลการ "จองเ
 
 ### Final report
 https://github.com/incluDna/Campground_booking/blob/02bacf11ef8ddcb5eecd05319df61da1a0c1a141/Group08_Sigma_Final_report.pdf
+### Contributors
+- Atipat B. [atipata](https://github.com/atipata)
+- Aitsayaphan L. [gincole](https://github.com/gincole)
+- Pasit B. [PasitB06](https://github.com/PasitB06)
+- Apiwich S. [AphiwichCEDT002](https://github.com/AphiwichCEDT002)
+- Sirikarn F. [nanamunt](https://github.com/nanamunt)
+- Penpitcha P. [incluDna](https://github.com/incluDna)
