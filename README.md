@@ -9,7 +9,7 @@ database สำหรับเก็บข้อมูลการ "จองเ
 - [x] 1. Register
 - [x] 2.1 Login
 - [x] 2.2 Logout
-- [ ] 3.1 booking_campground (ไม่ต้องมีแล้ว ให้จองผ่านtentเอา)
+- [ ] 3.1 booking_campground (*ไม่ต้องมีแล้ว ให้จองผ่านtentเอา)
 - [x] 3.2 booking_tent
 - [x] 4. customer view tent_booking
 - [x] 5. customer edit tent_booking
