@@ -6,68 +6,19 @@ database สำหรับเก็บข้อมูลการ "จองเ
 
 ### Status updating
 
-<table>
-    <tr>
-     <th colspan="11">Functions</th>
-      <th colspan="11">Status</th>
-    </tr>
- <tr>
-  <td colspan="11">1. Register</td>
-      <td colspan="11">done</td>
-    </tr>
- <tr>
-  <td colspan="11">2.1 Login</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-   <td colspan="11">2.2 Logout</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">3.1 booking_campground</td>
-      <td colspan="11">ไม่ต้องมีแล้ว ให้จองผ่านtentเอา</td>
-    </tr>
-  <tr>
-  <td colspan="11">3.2 booking_tent</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">4. customer view tent_booking</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">5. customer edit tent_booking</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">6. customer delete tent_booking</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">7. admin view campground</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">8. admin edit campground</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">9. admin delete campground</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">complex_query</td>
-      <td colspan="11">done</td>
-    </tr>
-    <tr>
-  <td colspan="11">Document based schema</td>
-      <td colspan="11">done</td>
-    </tr>
-</table>
-
-
-
-
+- [x] 1. Register
+- [x] 2.1 Login
+- [x] 2.2 Logout
+- [ ] 3.1 booking_campground (ไม่ต้องมีแล้ว ให้จองผ่านtentเอา)
+- [x] 3.2 booking_tent
+- [x] 4. customer view tent_booking
+- [x] 5. customer edit tent_booking
+- [x] 6. customer delete tent_booking
+- [x] 7. admin view campground
+- [x] 8. admin edit campground
+- [x] 9. admin delete campground
+- [x] complex_query
+- [x] Document based schema
 
 ### Final report
 https://github.com/incluDna/Campground_booking/blob/02bacf11ef8ddcb5eecd05319df61da1a0c1a141/Group08_Sigma_Final_report.pdf
